@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1584791818709" Description="TEST_JOB1 Initialize" Name="TEST_JOB1" PackageName="TEST_JOB1.spk" UserID="sasdemo@KORSML" Version="5a3c3b6">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/TEST_JOB1(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
