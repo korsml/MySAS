@@ -5,4 +5,7 @@
 <ArchInfo Date="1584792557649" Description="TEST_JOB1 Version C" Name="TEST_Job" PackageName="TEST_Job.spk" UserID="sasdemo@KORSML" Version="041c429">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/TEST_JOB1(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1584793497138" Description="" Name="Version D" PackageName="Version D.spk" UserID="sasdemo@KORSML" Version="b51156b">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/TEST_JOB1(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
